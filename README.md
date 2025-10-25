@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @mabl11
-- 👀 I’m interested in things
-- 🌱 I’m currently learning nice things
-- 💞️ I’m looking to collaborate on very nice things
-- 📫 Reach me with the brand new M1
-- 
+-  I’m interested in nice things
+-  I’m currently learning nice things
+-  Show me nioce thigs
 
 <!---
 mabl11/mabl11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
